@@ -1,4 +1,4 @@
-export const apiKey = "place your openAI api key here";
+export const apiKey = "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";
 // in some cases your api key maybe already expired
 // try to use a new account to create an api key
 
